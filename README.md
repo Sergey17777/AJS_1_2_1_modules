@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/iex92jmfw45e3c29/branch/master?svg=true)](https://ci.appveyor.com/project/homutovan/ajs-1-2-1-modules-mf963/branch/master)
+[![Build status](https://ci.appveyor.com/api/projects/status/iex92jmfw45e3c29/branch/master?svg=true)](https://ci.appveyor.com/project/Sergey17777/ajs-1-2-1-modules-mf963/branch/master)
 
 # Домашнее задание к лекции «Модули»
 
